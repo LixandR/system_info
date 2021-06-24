@@ -1,5 +1,5 @@
 # system_info
-实时监控服务器状态,短信预警
+golang实时监控服务器状态,短信预警
 
 # base
 golang 16
